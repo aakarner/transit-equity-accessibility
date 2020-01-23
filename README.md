@@ -36,7 +36,12 @@ specification (GTFS)](https://developers.google.com/transit/gtfs) format can be 
 
 The project data folder contains all sample data necessary to use the scripts
 here as they are written. Items include:
-* 
+* 2015050_htx.zip: Before SR GTFS feed (dated May 8, 2015)
+* 20150818_htx.zip: After SR GTFS feed (dated August 18, 2015)
+* SURVEY_DATA_2015-10-07.csv: A partially redacted version of transit rider 
+survey microdata collected by Houston METRO during 2015. 
+* houston.pbf: An OpenStreetMap extract of the Houston metropolitan region
+to aid in creating a pedestrian network. 
 
 
 ### OpenTripPlanner
